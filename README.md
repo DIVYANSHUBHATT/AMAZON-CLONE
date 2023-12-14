@@ -1,2 +1,2 @@
 # AMAZON-CLONE
-USING HTML AND CSS ONLY
+USING HTML AND CSS for better understanding of frontend
